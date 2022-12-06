@@ -1,2 +1,2 @@
 # Discord-custom-rich-presence
-installation:
+**REQUIRES DISCORD APPLICATION CLIENT**
